@@ -1,5 +1,5 @@
 {
-  "name": "landing-page-framework",
+  "name": "eleventy-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "/"
+    "url": "https://github.com/mattskeoch/11ty-starter/"
   },
   "keywords": [],
   "author": "Matt Skeoch",
